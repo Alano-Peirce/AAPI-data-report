@@ -1,5 +1,5 @@
 # AANHPI-data-report
-This data report, titled "Snapshots of Diversity", presents all manner of socioeconomic data on Nevada's AANHPI (Asian American, Native Hawaiian, and Pacific Islander) population. In order to promote a more nuanced understanding of broader trends, the data is disaggregated (broken up) by ethnicity where possible.
+This data report, titled "Snapshots of Diversity", presents all manner of sociodemographic data on Nevada's AANHPI (Asian American, Native Hawaiian, and Pacific Islander) population. In order to promote a more nuanced understanding of broader trends, the data is disaggregated (broken up) by ethnicity where possible.
 
 The data in the report is separated into the following sections:
 
